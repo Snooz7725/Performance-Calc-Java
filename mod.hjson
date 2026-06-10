@@ -7,10 +7,10 @@ author: Snooz7725
 
 #the fully qualified main class of the mod
 #use "." for folders: "folder.file"
-main: "performance_calc_java.CalcMain"
+main: "performance_calculator.CalcMain"
 
-description: "A mod."
-version: 1.0
+description: "A Java mod for measuring performance of applicable blocks"
+version: 0.1
 
 #the minimum game build required to run this mod
 minGameVersion: 158

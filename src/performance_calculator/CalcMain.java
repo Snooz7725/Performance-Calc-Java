@@ -1,4 +1,4 @@
-package performance_calc_java;
+package performance_calculator;
 
 import arc.*;
 import arc.util.*;
